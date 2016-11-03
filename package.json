@@ -1,14 +1,10 @@
 {
-  "name": "phaser-multiplayer-game",
+  "name": "fishcape",
   "version": "1.0.0",
-  "description": "Phaser example gone multiplayer!",
-  "main": "lib/game.js",
-  "scripts": {
-    "start": "node .",
-    "dev": "nodemon .",
-    "lint": "standard --verbose | snazzy"
-  },
-  "author": "Francisco Dias",
+  "description": "fish game",
+  "main": "lib/server.js",
+
+  "author": "JoanneJiang",
   "license": "MIT",
   "dependencies": {
     "ecstatic": "^1.0.1",
